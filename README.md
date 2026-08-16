@@ -36,39 +36,3 @@ or just paste it into the sidebar once the app's open (nothing gets stored).
 streamlit run src/app.py
 ```
 First launch builds the FAISS index and caches it — every launch after that's instant.
-
-## What's in here
-iitb-insti-assist/
-├── data/ 5 source docs, cleaned to plain text
-├── src/
-│ ├── ingest.py chunking
-│ ├── vector_store.py embedding + FAISS
-│ ├── rag.py retrieval + grounded prompt + Gemini call
-│ └── app.py the Streamlit UI
-├── index/ cached index (auto-generated, ignore this)
-└── WRITEUP.md the full write-up — scope, sourcing, chunking rationale, limitations
-
-## Testing without the UI
-
-```bash
-python3 src/ingest.py        # see how documents got chunked
-python3 src/vector_store.py  # build index, sanity-check retrieval — no API key needed
-GEMINI_API_KEY=AIza... python3 src/rag.py   # full round-trip
-```
-
-## Try asking it
-
-- "When is the last date to pay hostel fees for Autumn 2026-27?"
-- "What's the fine for paying late?"
-- "Total fee for a new PG student joining in 2026-27?"
-- "Fine for an unbooked overnight guest?"
-- "What facilities does every hostel have?"
-- "What's the capital of France?" — should get an honest "I don't know"
-
-## One thing worth knowing
-
-Everything runs locally except the final answer-generation step, which hits 
-the Gemini API. Embedding and retrieval never leave your machine.
-
-Curious about the *why* behind the chunking strategy or the known gaps? 
-That's all in `WRITEUP.md`.
