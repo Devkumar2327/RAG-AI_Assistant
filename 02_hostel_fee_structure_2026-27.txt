@@ -1,0 +1,68 @@
+Source: IIT Bombay Hostel Coordinating Unit (HCU)
+Document: Hostel Fees Structure for Autumn Semester 2026-27
+
+=== SECTION A: On-Roll UG Students (Except 2026-27 Batch) ===
+Programmes: B.Tech., Dual Degree (B.Tech), B.S. & B.Des.
+
+Fee component breakdown by batch (in Rs.):
+                                    On/Before 2022-23   2023-24 Batch   2024-25 Batch   2025-26 Batch
+Electricity and Water Charges          4,000               4,000           4,000           4,000
+Hostel Establishment Charges           3,450               3,600           -               -
+Hostel Rent                            2,300               2,400           -               -
+Mess Establishment Charges             1,800               1,900           -               -
+Hostel Amenities Fund                  1,500               1,500           1,600           1,700
+Hostel Charges                         -                   -               8,300           8,700
+Total Hostel Fees (A)                  13,050              13,400          13,900          14,400
+Per Semester Mess Advance (B)          22,500              22,500          22,500          22,500
+Total Fees Payable (A+B)               35,550              35,900          36,400          36,900
+
+=== SECTION B: On-Roll PG Students (Except 2026-27 Batch) ===
+Programmes: M.Tech, M.Tech+Ph.D, M.Des, MBA, M.Sc, M.Sc.-Ph.D, MPP, MS Research, MA-Research, MA+Ph.D, MDP, Ph.D
+
+                                    On/Before 2022-23   2023-24 Batch   2024-25 Batch   2025-26 Batch
+Electricity and Water Charges          4,000               4,000           4,000           4,000
+Hostel Establishment Charges           3,450               3,600           -               -
+Hostel Rent                            2,300               2,400           -               -
+Mess Establishment Charges             1,800               1,900           -               -
+Hostel Amenities Fund                  1,800               1,800           1,900           2,000
+Hostel Charges                         -                   -               8,300           8,700
+Total Hostel Fees (A)                  13,350              13,700          14,200          14,700
+Per Semester Mess Advance (B)          27,000              27,000          27,000          27,000
+Total Fees Payable (A+B)               40,350              40,700          41,200          41,700
+
+=== SECTION C: New Undergraduate Students (2026-27 Batch Only) ===
+Programmes: B.Tech, Dual Degree (B.Tech+M.Tech), B.S. & B.Des.
+
+Hostel Charges*: Rs. 9,150/- (*Hostel Rent of Rs.2,750/- is included within this figure)
+Electricity and Water Charges: Rs. 4,000/-
+Hostel Amenities Fund: Rs. 1,800/-
+Hostel-Mess Security Deposit (one time): Rs. 5,000/-
+Total Hostel Fees (A): Rs. 19,950/-
+Per Semester Mess Advance (B): Rs. 22,500/-
+Total Fees Payable (A+B): Rs. 42,450/-
+
+=== SECTION D: New PG/Ph.D Entrants (2026-27 Batch Only) ===
+Programmes: M.Tech / M.Tech+Ph.D / M.Des / MBA / M.Sc / M.Sc.-Ph.D / MPP / MS-Research / MA+Ph.D / Ph.D
+
+Hostel Charges*: Rs. 9,150/- (*Hostel Rent of Rs.2,750/- is included within this figure)
+Electricity and Water Charges: Rs. 4,000/-
+Hostel Amenities Fund: Rs. 2,100/-
+Hostel-Mess Security Deposit (one time): Rs. 5,000/-
+Total Hostel Fees (A): Rs. 20,250/-
+Per Semester Mess Advance (B): Rs. 27,000/-
+Total Fees Payable (A+B): Rs. 47,250/-
+
+=== NOTES APPLICABLE TO ALL FEE TABLES ===
+1. Hostel Fees components are applicable only to students who have opted for hostel facilities. Charges will be NIL for those who have NOT opted for hostel facilities.
+2. Academic fee payment is mandatory while paying the Hostel Fees.
+3. Hostel Fees must be paid by 15.07.2026. After 15.07.2026, a fine of Rs.100/- per day w.e.f. 16.07.2026 will be charged till the date of payment. Request for a fine waiver will not be entertained.
+4. Every UG student staying in the hostel has to pay a Per Semester Mess Advance (SMA). SMA can be paid in full or in two equal installments; the first installment is due by 15.07.2026 and the second by 30.09.2026. Late SMA payment is fined at Rs.100/- per day after the due date.
+5. Married Ph.D students staying in quarters (MRSB / Tulsi / QIP, etc.) pay a License Fee as applicable under Estate Office rules.
+6. Students paying fees via Bank Loan or Sponsoring Agency (Private/Government) must request the fee amount be transferred directly to the IIT Bombay Bank Account at least 10 days prior to the fee payment deadline (i.e., by 15.07.2026), since reconciliation takes 5-7 working days and Autumn Semester 2026-27 registration is linked to hostel fee payment.
+7. Students availing a bank loan or scholarship who could not receive the amount in time should intimate HCU on/before 15.07.2026 and submit documentary proof of the loan/scholarship application submitted on/before 15.07.2026.
+8. Failing to pay hostel fees within the prescribed date, or not intimating HCU about an applied loan/scholarship by 15.07.2026, means it will be presumed the student is unwilling to stay in the hostel, and the occupied hostel room will be vacated as per rules.
+9. Students who intimate HCU about a loan/scholarship after 15.07.2026 will still be charged a fine of Rs.100/- per day w.e.f. 16.07.2026 till the date of payment of Hostel Fees.
+10. If a registered student wants to stay in a hostel only for a short duration in a semester (up to 30 days from the beginning of any semester), the student should pay a Hostel Fee of Rs.3,500/-. For a stay of more than 30 days, full Hostel Fee will be charged. (For example, a Ph.D student staying more than 30 days post thesis submission till the Ph.D viva-voce must pay the full hostel fee; such students may contact HCU.)
+11. Pro-rata based hostel fee refund is not applicable.
+12. IIT Bombay reserves the right to revise the hostel fee structure in subsequent semesters, as per the recommendation of the competent authority.
+13. For any query related to hostel fees / hostel room allotment / refund of hostel fees etc., students are advised to write to the Assistant Registrar HCU (arhcu@iitb.ac.in) with a copy to the HCU office (hcu.office@iitb.ac.in).
